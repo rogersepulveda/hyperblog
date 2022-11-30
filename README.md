@@ -1,2 +1,2 @@
 # hyperblog
-reposistorio cuso de git y githut de plazi
+reposistorio cuso de git y githut de platzi
